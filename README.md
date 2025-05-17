@@ -4,8 +4,6 @@ Damien Mazeas. (2023). mazeasdamien/Inverse-Kinematics-Universal-Robot-Unity: Un
 
 ---
 
-https://youtu.be/9upypT6OWwk?si=maUO5c5LX03iIy0J
-
 # Inverse Kinematics for UR16e Robot
 This repository contains a C# implementation of the Inverse Kinematics algorithm for the UR16e robot. The code calculates the joint angles required to achieve a desired end-effector pose using the robot's Denavit-Hartenberg (DH) parameters.
 
