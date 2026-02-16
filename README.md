@@ -34,6 +34,3 @@ There is a branch that adds a user interface for teaching and replaying motions 
 - Additional scenes (configured for HDRP):
   - `main_animation` – Demonstrates repetitive robot movements.
   - `main_ui` – Provides the UI for creating and managing teaching data.
-
-This branch is provided as an experimental feature and reference implementation only.  
-The `main` branch remains the canonical version of the project.
